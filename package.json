@@ -1,5 +1,5 @@
 {
-  "name": "graphQL-playground",
+  "name": "GraphQL-playground",
   "version": "1.0.0",
   "description": "Playground for graphql",
   "main": "app.js",
